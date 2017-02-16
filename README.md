@@ -1,4 +1,4 @@
-#MOVIE PROJECT
+#MOVIE TRAILERS PROJECT
 ####By, Floyd Kots
 
 This project was about the backend side for a page that neatly displays
